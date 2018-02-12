@@ -4,7 +4,9 @@
   "description": "# #",
   "main": "gulpfile.js",
   "dependencies": {
-    "gulp": "^3.9.1"
+    "animate.css": "^3.6.1",
+    "gulp": "^3.9.1",
+    "normalize.css": "^8.0.0"
   },
   "devDependencies": {},
   "scripts": {
